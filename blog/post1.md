@@ -1,6 +1,6 @@
 # Getting Started with Hexo
 
-Hexo is a fast, simple & powerful blog framework built with Node.js.
+Hexo is a fast, simple &amp; powerful blog framework built with Node.js.
 
 ## Installation
 
